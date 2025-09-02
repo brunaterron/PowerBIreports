@@ -1,0 +1,1 @@
+Ficticious sales data that can be selected by Year and Region showing total sales, average sales, monthly variation and categories
